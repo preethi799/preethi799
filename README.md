@@ -2,6 +2,7 @@
 
 - 👩‍🎓  HR turned Business Analyst
 - 🖥  I’m interested in Data Vizualization, Machine Learning and NLP
+- 🥰  Love working with Python
 - 📫  Reach me at: preethi799@gmail.com
 
 <!--
