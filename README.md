@@ -1,8 +1,8 @@
 ### Hi, Welcome to my Github Profile! 😃 👋
 
-- 👩‍🎓 HR turned Business Analyst
-- 🖥 I’m interested in Data Vizualization, Machine Learning and NLP
-- 📫 Reach me at: preethi799@gmail.com
+- 👩‍🎓  HR turned Business Analyst
+- 🖥  I’m interested in Data Vizualization, Machine Learning and NLP
+- 📫  Reach me at: preethi799@gmail.com
 
 <!--
 **preethi799/preethi799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
