@@ -1,7 +1,7 @@
-### Hi there, Welcome to my Github Profile! 😃 👋
+### Hi, Welcome to my Github Profile! 😃 👋
 
-- 🔭 I’m interested in Data Vizualization, Machine Learning and NLP
 - 👩‍🎓 HR turned Business Analyst
+- 🔭 I’m interested in Data Vizualization, Machine Learning and NLP
 - 📫 Reach me at: preethi799@gmail.com
 
 <!--
