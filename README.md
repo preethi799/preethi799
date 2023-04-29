@@ -2,7 +2,7 @@
 
 - 👩‍🎓  Business Analyst
 - 🖥  I’m interested in Data Vizualization, Machine Learning and NLP
-- 🥰  Enjoy working with Python
+- 🥰  I enjoy working with Python
 - 📫  Reach me at: preethi799@gmail.com
 
 <!--
